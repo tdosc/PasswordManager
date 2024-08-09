@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PasswordManager/.vs/PasswordManager/FileContentIndex
+/PasswordManager/PasswordManager/obj/Debug/net8.0-windows
+/PasswordManager/PasswordManager/obj
+/PasswordManager/PasswordManager/PasswordManager.csproj.user
